@@ -42,6 +42,6 @@ The client, a real-estate agency was considering entering St. Petersburg's marke
 ---
 
 ## 📁 Repository Structure
-* `README.md` — Project overview and executive summary (this file).
-* `/data` — Anonymized raw dataset.
-* `/src` — Source code folder containing SQL script (PostGreSQL).
+* 'README.md' — Project overview and executive summary (this file).
+* '/data' — Anonymized raw dataset.
+* '/src' — Source code folder containing SQL script (PostGreSQL).
