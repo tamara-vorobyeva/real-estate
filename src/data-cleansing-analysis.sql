@@ -1,8 +1,7 @@
-/* Module 1 Project: Data Analysis for a Real Estate Agency
+/* Project: Data Analysis for a Real Estate Agency
  * Part 2. Solving ad hoc tasks
  *
  * Author: Vorobyeva T.
- * Date: 10.04.2026
 */
 
 --TASK 1: ANALYSIS OF ADVERTISEMENT ACTIVITY IN THE REAL ESTATE MARKET OF ST. PETERSBURG AND LENINGRAD OBLAST IN 2015-2018
